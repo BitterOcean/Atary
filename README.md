@@ -91,10 +91,12 @@ The game starts with a 2-dot snake and the player can control the snake by 4 pus
 
 ## **SUPPOERT**
 
-Reach out to me at one of the following places!
+Reach out to us at one of the following places!
 
 - Telegram at <a href="https://t.me/BitterOcean" target="_blank">@BitterOcean</a>
-- Gmail at <a href="mailto:maryamsaeedmehr@gmail.com" target="_blank">maryamsaeedmehr@gmail.com</a>
+- Telegram at <a href="https://t.me/sajede_nick" target="_blank">@sajede_nick</a>
+- Telegram at <a href="https://t.me/Khoramian2" target="_blank">@Khoramian2</a>
+- Telegram at <a href="https://t.me/mArZiEh_aLiDaDi" target="_blank">@mArZiEh_aLiDaDi</a>
 
 ## **LICENSE**
 
