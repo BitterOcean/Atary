@@ -11,7 +11,7 @@ In this project, we built the classic snake game using Atmega32 and a 16x8 LED d
 
 <span>&#127909;</span> **To see how it works , take a look at <a href="https://www.aparat.com/v/ALuwK">This Link</a>**
 
-<video id="video" preload="auto" width="100%" height="100%" controls>
+<video controls>
   <source src="https://user-images.githubusercontent.com/60509979/200170756-1abcfc11-13a5-4f88-9234-43f08ace821a.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
